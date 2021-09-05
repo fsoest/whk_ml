@@ -4,4 +4,4 @@ pandas
 plotly
 sklearn
 ipywidgets
-
+kaleido
